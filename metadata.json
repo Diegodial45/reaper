@@ -1,0 +1,6 @@
+{
+  "name": "Reaper Web Controller",
+  "description": "Uma interface web para controle de automação e repertório, inspirada no VS HOOK, projetada para ser usada como Web Interface no REAPER.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
